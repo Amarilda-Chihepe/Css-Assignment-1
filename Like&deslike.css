@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#like-1{
+    color: green;
+}
+
+#deslike-1{
+    color: red;
+}
+
+h3{
+    padding-top: 10px;
+    color: aqua;
+}
+
+li, p{
+    font-size: 18px;
+}
+
+ul li{
+    list-style: square;   
+}
+
+ol li{
+    list-style: lower-roman;
+}
+
+.likes{
+    color: rgb(255, 0, 106);
+    font-family: sans-serif;
+}
+
+#like{
+    color: rgb(248, 146, 12);
+    font-family: sans-serif;
+}
+
+.deslikes ul{
+    color: rgb(185, 182, 4);
+}
+
+#deslike ul{
+    color: rgb(4, 185, 125);
+}
+
